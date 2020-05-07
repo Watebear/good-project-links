@@ -3,7 +3,6 @@ I mark some good project I have used before.
 
 
 人脸类：
-
 1. insightface：https://github.com/deepinsight/insightface
 
 2.PRNet：https://github.com/YadiraF/PRNet
@@ -24,7 +23,6 @@ I mark some good project I have used before.
 
 
 会议合集类：
-
 1.  极市团队cvpr：https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation
 
 2. amusi cvpr2020：https://github.com/amusi/CVPR2020-Code
