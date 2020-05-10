@@ -23,6 +23,8 @@ I mark some good project I have used before.
 
 10.pytorch-facenet: https://github.com/timesler/facenet-pytorch#pretrained-models
 
+11.pytorch-retinaface：https://github.com/biubug6/Pytorch_Retinaface
+
 
 会议合集类：
 1.  极市团队cvpr：https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation
