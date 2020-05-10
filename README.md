@@ -21,6 +21,8 @@ I mark some good project I have used before.
 
 9.facenet：https://github.com/davidsandberg/facenet
 
+10.pytorch-facenet: https://github.com/timesler/facenet-pytorch#pretrained-models
+
 
 会议合集类：
 1.  极市团队cvpr：https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation
