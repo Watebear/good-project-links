@@ -25,8 +25,9 @@ I mark some good project I have used before.
 
 11.pytorch-retinaface：https://github.com/biubug6/Pytorch_Retinaface
 
-
-会议合集类：
+合集类：
 1.  极市团队cvpr：https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation
 
 2. amusi cvpr2020：https://github.com/amusi/CVPR2020-Code
+
+3. 人脸论文整理：https://github.com/ChanChiChoi/awesome-Face_Recognition
