@@ -25,6 +25,8 @@ I mark some good project I have used before.
 
 11.pytorch-retinaface：https://github.com/biubug6/Pytorch_Retinaface
 
+12.keras-TP-GAN: https://github.com/yh-iro/Keras_TP-GAN
+
 合集类：
 1.  极市团队cvpr：https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation
 
