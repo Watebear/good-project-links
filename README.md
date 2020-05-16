@@ -27,6 +27,8 @@ I mark some good project I have used before.
 
 12.keras-TP-GAN: https://github.com/yh-iro/Keras_TP-GAN
 
+13：sphereface: https://github.com/wy1iu/sphereface#requirements
+
 合集类：
 1.  极市团队cvpr：https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation
 
