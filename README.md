@@ -8,7 +8,7 @@ I mark some good project I have used before.
 
 3.sphereface: https://github.com/wy1iu/sphereface#requirements
 
-4。Probabilistic-Face-Embeddings：https://github.com/seasonSH/Probabilistic-Face-Embeddings
+4.Probabilistic-Face-Embeddings：https://github.com/seasonSH/Probabilistic-Face-Embeddings
 
 5.pytorch-facenet: https://github.com/timesler/facenet-pytorch#pretrained-models
 
