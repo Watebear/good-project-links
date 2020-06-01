@@ -29,6 +29,8 @@ I mark some good project I have used before.
 
 13：sphereface: https://github.com/wy1iu/sphereface#requirements
 
+14：Probabilistic-Face-Embeddings：https://github.com/seasonSH/Probabilistic-Face-Embeddings
+
 合集类：
 1.  极市团队cvpr：https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation
 
