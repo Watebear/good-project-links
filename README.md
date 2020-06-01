@@ -12,6 +12,7 @@ I mark some good project I have used before.
 
 5.pytorch-facenet: https://github.com/timesler/facenet-pytorch#pretrained-models
 
+
 人脸检测&对齐：
 1.pytorch-retinaface：https://github.com/biubug6/Pytorch_Retinaface
 
@@ -21,13 +22,16 @@ I mark some good project I have used before.
 
 4.Ultra light fast face detection 1Mb：https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
 
+
 3D人脸：
 1.face3d：https://github.com/Watebear/face3d
 
 2.PRNet：https://github.com/YadiraF/PRNet
 
+
 人脸生成：
 1.keras-TP-GAN: https://github.com/yh-iro/Keras_TP-GAN
+
 
 人脸属性：
 1.Facial expression：https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch
