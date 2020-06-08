@@ -12,6 +12,8 @@ I mark some good project I have used before.
 
 5.pytorch-facenet: https://github.com/timesler/facenet-pytorch#pretrained-models<br>
 
+6.pytorch-center-loss: https://github.com/KaiyangZhou/pytorch-center-loss
+
 
 人脸检测&对齐：
 ======
