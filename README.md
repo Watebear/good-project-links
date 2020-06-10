@@ -14,6 +14,8 @@ I mark some good project I have used before.
 
 6.pytorch-center-loss: https://github.com/KaiyangZhou/pytorch-center-loss
 
+7.pytorch-angular-penalty-loss: https://github.com/cvqluu/Angular-Penalty-Softmax-Losses-Pytorch
+
 
 人脸检测&对齐：
 ======
