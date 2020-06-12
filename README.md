@@ -1,7 +1,9 @@
 # good-project-links
 I mark some good project I have used before.
 
-人脸识别：======<br>1. insightface：https://github.com/deepinsight/insightface <br>
+人脸识别：
+======
+<br>1. insightface：https://github.com/deepinsight/insightface <br>
 
 2.facenet：https://github.com/davidsandberg/facenet<br>
 
