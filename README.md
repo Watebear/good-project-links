@@ -1,8 +1,7 @@
 # good-project-links
 I mark some good project I have used before.
 
-人脸识别：
-======<br>1. insightface：https://github.com/deepinsight/insightface <br>
+人脸识别：======<br>1. insightface：https://github.com/deepinsight/insightface <br>
 
 2.facenet：https://github.com/davidsandberg/facenet<br>
 
@@ -15,6 +14,8 @@ I mark some good project I have used before.
 6.pytorch-center-loss: https://github.com/KaiyangZhou/pytorch-center-loss
 
 7.pytorch-angular-penalty-loss: https://github.com/cvqluu/Angular-Penalty-Softmax-Losses-Pytorch
+
+8.MFR: https://github.com/cleardusk/MFR
 
 
 人脸检测&对齐：
