@@ -19,6 +19,8 @@ I mark some good project I have used before.
 
 8.MFR: https://github.com/cleardusk/MFR
 
+9.DUL: https://github.com/Ontheway361/dul-pytorch
+
 
 人脸检测&对齐：
 ======
