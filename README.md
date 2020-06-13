@@ -21,6 +21,8 @@ I mark some good project I have used before.
 
 9.DUL: https://github.com/Ontheway361/dul-pytorch
 
+10.CurricularFace：https://github.com/HuangYG123/CurricularFace
+
 
 人脸检测&对齐：
 ======
