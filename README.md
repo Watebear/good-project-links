@@ -59,3 +59,9 @@ I mark some good project I have used before.
 2. amusi cvpr2020：https://github.com/amusi/CVPR2020-Code<br>
 
 3. 人脸论文整理：https://github.com/ChanChiChoi/awesome-Face_Recognition<br>
+
+
+强化学习：
+======
+1. PARL: https://github.com/PaddlePaddle/PARL
+
