@@ -65,3 +65,7 @@ I mark some good project I have used before.
 ======
 1. PARL: https://github.com/PaddlePaddle/PARL
 
+
+三维重建：
+======
+1. BundleFusion： https://github.com/niessner/BundleFusion
