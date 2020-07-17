@@ -50,6 +50,7 @@ I mark some good project I have used before.
 人脸属性：
 ======
 1.Facial expression：https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch<br>
+2.Micro-Expression-with-Deep-Learning: https://github.com/IcedDoggie/Micro-Expression-with-Deep-Learning
 
 
 论文合集：
