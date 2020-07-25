@@ -47,10 +47,13 @@ I mark some good project I have used before.
 1.keras-TP-GAN: https://github.com/yh-iro/Keras_TP-GAN<br>
 
 
-人脸属性：
+人脸表情识别/微表情识别：
 ======
 1.Facial expression：https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch<br>
+
 2.Micro-Expression-with-Deep-Learning: https://github.com/IcedDoggie/Micro-Expression-with-Deep-Learning
+
+3.MicroExpSTCNN：https://github.com/bogireddytejareddy/micro-expression-recognition
 
 
 论文合集：
