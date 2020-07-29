@@ -52,6 +52,7 @@ I mark some good project I have used before.
 1.Facial expression：https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch<br>
 
 2.Micro-Expression-with-Deep-Learning: https://github.com/IcedDoggie/Micro-Expression-with-Deep-Learning
+https://github.com/JayShaun/MICRO-Expression-Recognition-with-deep-learning
 
 3.MicroExpSTCNN：https://github.com/bogireddytejareddy/micro-expression-recognition
 
