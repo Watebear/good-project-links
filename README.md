@@ -56,6 +56,8 @@ https://github.com/JayShaun/MICRO-Expression-Recognition-with-deep-learning
 
 3.MicroExpSTCNN：https://github.com/bogireddytejareddy/micro-expression-recognition
 
+4.MEGC2019: https://github.com/xiaobaishu0097/MEGC2019
+
 
 论文合集：
 ======
