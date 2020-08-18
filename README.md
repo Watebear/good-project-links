@@ -58,6 +58,7 @@ https://github.com/JayShaun/MICRO-Expression-Recognition-with-deep-learning
 
 4.MEGC2019: https://github.com/xiaobaishu0097/MEGC2019
 
+5.EVM方法算法：https://github.com/brycedrennan/eulerian-magnification
 
 论文合集：
 ======
