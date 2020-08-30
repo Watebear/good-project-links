@@ -77,3 +77,8 @@ https://github.com/JayShaun/MICRO-Expression-Recognition-with-deep-learning
 三维重建：
 ======
 1. BundleFusion： https://github.com/niessner/BundleFusion
+
+其它：
+======
+1. handson-ml： https://github.com/ageron/handson-ml
+
