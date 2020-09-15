@@ -34,6 +34,8 @@ I mark some good project I have used before.
 
 4.Ultra light fast face detection 1Mb：https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB<br>
 
+5.Tiny-face: https://github.com/varunagrawal/tiny-faces-pytorch
+
 
 3D人脸：
 ======
