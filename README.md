@@ -36,6 +36,8 @@ I mark some good project I have used before.
 
 5.Tiny-face: https://github.com/varunagrawal/tiny-faces-pytorch
 
+6.FAN: https://github.com/rainofmine/Face_Attention_Network
+
 
 3D人脸：
 ======
