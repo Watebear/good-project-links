@@ -38,6 +38,8 @@ I mark some good project I have used before.
 
 6.FAN: https://github.com/rainofmine/Face_Attention_Network
 
+7.SSD: https://github.com/bubbliiiing/ssd-pytorch
+
 
 3D人脸：
 ======
