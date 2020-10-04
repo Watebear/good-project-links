@@ -40,6 +40,7 @@ I mark some good project I have used before.
 
 7.SSD: https://github.com/bubbliiiing/ssd-pytorch
 
+8.CenterNet https://github.com/xingyizhou/CenterNet
 
 3D人脸：
 ======
