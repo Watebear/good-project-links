@@ -90,4 +90,4 @@ https://github.com/JayShaun/MICRO-Expression-Recognition-with-deep-learning
 其它：
 ======
 1. handson-ml： https://github.com/ageron/handson-ml
-
+2. 树莓派编译： https://github.com/zergtant/pytorch-handbook/tree/master/pi 
